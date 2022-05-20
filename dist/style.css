@@ -1,9 +1,23 @@
 body {
-  background-color: yellow;
+  background-color: #d9abff;
 }
 
 .cup {
   transform: rotate(180deg);
+  position: absolute;
+  opacity: 0.6;
+}
+
+#one {
+  left: 20vw;
+}
+
+#two {
+  left: 40vw;
+}
+
+#three {
+  left: 60vw;
 }
 
 .smile {

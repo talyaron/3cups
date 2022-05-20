@@ -1,9 +1,20 @@
 body{
-    background-color: yellow;
+    background-color: rgb(217, 171, 255);
 }
 
 .cup{
     transform: rotate(180deg);
+    position: absolute;
+    opacity: 0.6;
+}
+#one{
+    left:20vw;
+}
+#two{
+    left:40vw;
+}
+#three{
+    left:60vw;
 }
 .smile{
     height: 100px;

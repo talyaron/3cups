@@ -1,0 +1,12 @@
+body {
+  background-color: yellow;
+}
+
+.cup {
+  transform: rotate(180deg);
+}
+
+.smile {
+  height: 100px;
+  width: 100px;
+}
